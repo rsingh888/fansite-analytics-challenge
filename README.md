@@ -58,8 +58,8 @@ Required packages:
 Output files are created under `log_output` folder
 Console output generated as 
 
-`
-$ ./run.sh
+
+> $ ./run.sh
 Lines read ::  100000
 Lines read ::  200000
 Lines read ::  300000
@@ -109,4 +109,3 @@ hosts file created....
 resources file created....
 hours file created....
 Total time taken in seconds are  ::  315.731151
-`
