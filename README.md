@@ -59,7 +59,7 @@ Output files are created under `log_output` folder
 Console output generated as 
 
 
-> $ ./run.sh
+$ ./run.sh
 Lines read ::  100000
 Lines read ::  200000
 Lines read ::  300000
